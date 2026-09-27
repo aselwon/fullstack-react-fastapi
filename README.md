@@ -4,6 +4,13 @@ A small customer request desk with a calm, responsive workspace. Customers submi
 
 Built as a complete portfolio monorepo: **Next.js + React + TypeScript + Tailwind + TanStack Query**, **FastAPI + SQLAlchemy 2 + Alembic + Pydantic v2**, **PostgreSQL + Redis**, Docker Compose, pytest, Vitest and GitHub Actions.
 
+## Public demo
+
+[Open the live RelayDesk frontend](https://harbordesk.majewski-web-audit.workers.dev).
+
+The frontend deployment may require a separately configured or reachable API; the local Docker Compose setup below includes both services.
+
+
 ## Run the demo
 
 Requires Docker Desktop (running), or Docker Engine with the Compose plugin.
